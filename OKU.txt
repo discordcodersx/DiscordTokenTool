@@ -1,0 +1,8 @@
+Selamlar yapmak için python yüklü olması lazım. add to path seçeneği aktif etmelisiniz kurarken
+
+
+rardan çıkardıktan sonra boş bir yere sağ tıklayıp komut penceresini burada aç diyip pip install -r requirements.txt diyin modüller kurulur
+
+cmd ekranından çıkmayın py Main.py yazıp çalıştırın ve hazır <3
+
+sonra tokeni girip istediğinizi yapın
